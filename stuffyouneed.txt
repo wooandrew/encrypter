@@ -1,0 +1,3 @@
+PYAUTOGUI
+
+pip install pyautogui
