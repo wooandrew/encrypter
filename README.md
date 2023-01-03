@@ -1,3 +1,5 @@
+Archived 01/03/2023
+
 # Basic
 
 Encrypter is a Text Encrypt program.  
